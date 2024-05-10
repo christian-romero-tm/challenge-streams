@@ -4,3 +4,5 @@ Editing file. This is day 3, Creating branches
 Change made only on master line
 
 Adding text only for my new branch
+--------- Adding new line to uncommited change --------
+Using git diff

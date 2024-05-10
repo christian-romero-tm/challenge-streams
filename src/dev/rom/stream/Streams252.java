@@ -8,6 +8,5 @@ public class Streams252 {
         IntStream.iterate((int) 'A', i -> i<=(int)'z', i -> i + 1)
                 .forEach(a -> System.out.printf("%c", a));
 
-
     }
 }
