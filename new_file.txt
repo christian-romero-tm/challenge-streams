@@ -8,3 +8,4 @@ Adding text only for my new branch
 Using git diff
 
 Day 4. Working with checkout command
+Adding new lines to stage the file
