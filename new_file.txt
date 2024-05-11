@@ -13,3 +13,4 @@ Adding new lines to stage the file
 Day 5. trying the stash command
 Changes on master only
 More changes, trying out gitdesktop
+One more changes after the change
