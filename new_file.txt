@@ -9,3 +9,5 @@ Using git diff
 
 Day 4. Working with checkout command
 Adding new lines to stage the file
+
+Day 5. trying the stash command
