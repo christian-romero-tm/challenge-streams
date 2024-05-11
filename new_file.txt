@@ -8,7 +8,8 @@ Adding text only for my new branch
 Using git diff
 
 Day 4. Working with checkout command
-Adding new lines to stage the file
+This are changes for day4 branch only
+More changes after update the tags
 
 Day 5. trying the stash command
 Changes on master only
