@@ -12,7 +12,7 @@ public class MainOptional {
     public static void main(String[] args) {
         Course pymc = new Course("PYMC","Python Masterclass");
         Course jmc = new Course("JMC","Java Masterclass");
-        
+
 
         List<Student> std = IntStream
                 .rangeClosed(1 , 500)
