@@ -24,7 +24,6 @@ public class Main {
 
         var femaleStudents = Arrays.stream(students).filter(s -> s.getGender().equals("F"));
 
-
         System.out.println("Number of female students: " + femaleStudents.count());
 
     }
